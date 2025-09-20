@@ -27,7 +27,7 @@ pip install -r requirements.txt
 3. 配置环境变量：
 创建 `.env` 文件并添加以下配置：
 ```env
-API_KEY=sk-or-v1-3a6118b505755ea749f953ef5dfbade9b18bf5e7cd1b070
+API_KEY=
 MODEL_NAME=google/gemini-2.5-flash-preview-05-20
 MODEL_BASE_URL=https://openrouter.ai/api/v1
 ```
